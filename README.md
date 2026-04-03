@@ -64,11 +64,6 @@ A simple JavaScript game to practice logic and user interaction.
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
-
-
-
-
-
 ---
 
 ⭐ I’m continuously learning and improving — feel free to explore my projects!
