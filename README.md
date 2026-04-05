@@ -38,11 +38,12 @@
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 
 ---
-
 ## 📊 GitHub Stats
-![Padmaja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Padmaja-Dhulipudi&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Padmaja-Dhulipudi&layout=compact&theme=radical)
+![Padmaja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Padmaja-Dhulipudi&show_icons=true&theme=tokyonight&cache_seconds=30)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Padmaja-Dhulipudi&layout=compact&theme=tokyonight&cache_seconds=30)
+
 
 ---
 
