@@ -32,7 +32,7 @@
 
 <pre style="font-size:14px; line-height:1.6; background:#0d1117; padding:14px; border-radius:10px; color:#e6edf3;">
 
-// profile.config.js
+
 
 export default {
   name: "Dhulipudi Padmaja",
@@ -56,7 +56,7 @@ export default {
 
 <img 
   src="https://raw.githubusercontent.com/Padmaja-Dhulipudi/Padmaja-Dhulipudi/main/img.jpg" 
-  width="95%" 
+  width="95%";height =  "50%";
   style="border-radius:12px; box-shadow:0 0 20px rgba(178,34,34,0.4);"
 />
 
