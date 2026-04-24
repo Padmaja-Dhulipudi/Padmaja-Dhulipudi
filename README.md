@@ -50,7 +50,7 @@ const padmaja = {
 </td>
 
 <td width="50%" align="center">
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/300/000000/external-artificial-intelligence-technology-flaticons-lineal-color-flat-icons.png" width="75%" />
+  <img src= "C:\Users\admin\AppData\Local\Temp\MicrosoftEdgeDownloads\2c8f66c5-0d42-4112-aa85-d3f168dc469b\img.jpg" width="75%" />
 </td>
 
 </tr>
