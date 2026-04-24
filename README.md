@@ -175,13 +175,14 @@ export default {
   <img src="https://readme-typing-svg.demolab.com?font=Antonio&size=32&duration=2800&pause=1200&color=B22222&center=true&vCenter=true&width=800&lines=Contribution+Graph" />
 </p
 
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Padmaja-Dhulipudi&label=Profile%20Views&color=red&style=for-the-badge"/>
 </div>
+
 ---
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=4000&pause=1500&color=B22222&center=true&vCenter=true&width=800&lines=Build+Smart.;Think+Deep.;Stay+Consistent.;Grow+Everyday." />
 </p>
+
 ---
