@@ -50,10 +50,9 @@ export default {
 };
 ```
 
-<td width="60%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/Padmaja-Dhulipudi/Padmaja-Dhulipudi/main/img.jpg" width="90%" />
-
+<td width="40%" align="center" valign="middle">
+  <img src="https://raw.githubusercontent.com/Padmaja-Dhulipudi/Padmaja-Dhulipudi/main/img.jpg" width="95%" style="border-radius:10px;" />
 </td>
 
 </tr>
