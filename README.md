@@ -179,3 +179,10 @@ export default {
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=4000&pause=1500&color=B22222&center=true&vCenter=true&width=800&lines=Build+Smart.;Think+Deep.;Stay+Consistent.;Grow+Everyday." />
 </p>
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Padmaja-Dhulipudi/Padmaja-Dhulipudi/output/github-snake-dark.svg" />
+
+</div>
