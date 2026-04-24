@@ -28,36 +28,41 @@
 
 <table align="center">
 <tr>
-<td width="50%" valign="top">
+
+<td width="50%" valign="middle">
 
 ```javascript
 const padmaja = {
-    education: "B.Tech in Computer Science Engineering",
-    university: "UCE Kakinada (JNTUK)",
+    name: "Dhulipudi Padmaja",
+    role: "CSE Student | AI/ML Enthusiast",
+
+    education: {
+        degree: "B.Tech",
+        branch: "Computer Science Engineering",
+        university: "University College of Engineering, Kakinada (JNTUK)"
+    },
 
     interests: [
         "Artificial Intelligence",
-        "Web Development",
         "Machine Learning",
+        "Web Development",
         "Problem Solving"
     ],
 
-    currentFocus: "Building real-world AI projects",
+    currentFocus: "Building real-world AI systems",
     mindset: "Learn → Build → Improve → Repeat"
 };
 ```
 
 </td>
 
-<!----<td width="50%" align="center">
-  <img src= "https://github.com/Padmaja-Dhulipudi/Padmaja-Dhulipudi/blob/main/img.jpg?raw=true" width="75%" />
+<td width="50%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/Padmaja-Dhulipudi/Padmaja-Dhulipudi/main/img.jpg" width="90%" />
+
 </td>
 
 </tr>
------>
-<td width="50%" align="center">
-  <img src="https://raw.githubusercontent.com/Padmaja-Dhulipudi/Padmaja-Dhulipudi/main/img.jpg" width="85%" />
-</td>
 </table>
 
 ---
