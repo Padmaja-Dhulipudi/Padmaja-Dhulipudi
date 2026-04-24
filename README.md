@@ -29,9 +29,7 @@
 <table align="center">
 <tr>
 
-<td width="50%" valign="middle">
-
-### 💻 About
+<td width="60%" valign="middle">
 
 ```javascript
 // profile.config.js
@@ -48,15 +46,11 @@ export default {
 
   mindset: "Learn → Build → Improve → Repeat"
 };
-```
+</td> <td width="40%" align="center" valign="middle">
 
+<img src="https://raw.githubusercontent.com/Padmaja-Dhulipudi/Padmaja-Dhulipudi/main/img.jpg" height="320px" style="border-radius:10px; object-fit:cover;" />
 
-<td width="40%" align="center" valign="middle">
-  <img src="https://raw.githubusercontent.com/Padmaja-Dhulipudi/Padmaja-Dhulipudi/main/img.jpg" width="95%" style="border-radius:10px;" />
-</td>
-
-</tr>
-</table>
+</td> </tr> </table> ```
 
 
 
