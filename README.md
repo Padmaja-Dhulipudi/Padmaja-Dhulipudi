@@ -68,11 +68,11 @@ export default {
 <!-- ===================== TECH STACK ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Antonio&size=34&duration=2800&pause=1200&color=B22222&center=true&vCenter=true&width=800&lines=Technology+Arsenal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Antonio&size=34&duration=2800&pause=1200&color=B22222&center=true&vCenter=true&width=800&lines=Tech+Stack" />
 </p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,nodejs,react,nextjs,flask,express,tailwind,mongodb,mysql,git,github,vscode,tensorflow,pytorch&theme=dark">
+  <img src="https://skillicons.dev/icons?i=c,python,java,html,css,js,nodejs,react,nextjs,flask,express,tailwind,mongodb,mysql,git,github,vscode,tensorflow,pytorch,scikit learn,&theme=dark">
 </div>
 
 ---
