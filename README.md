@@ -56,7 +56,8 @@ export default {
 
 <img 
   src="https://raw.githubusercontent.com/Padmaja-Dhulipudi/Padmaja-Dhulipudi/main/img.jpg" 
-  width="95%";height =  "50%";
+  width="95%"
+  height =  "320px"
   style="border-radius:12px; box-shadow:0 0 20px rgba(178,34,34,0.4);"
 />
 
