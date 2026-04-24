@@ -32,8 +32,6 @@
 <td width="60%" valign="middle">
 
 ```javascript
-// profile.config.js
-
 export default {
   name: "Dhulipudi Padmaja",
   role: "CSE Student | AI/ML",
@@ -46,17 +44,22 @@ export default {
 
   mindset: "Learn → Build → Improve → Repeat"
 };
-</td> <td width="40%" align="center" valign="middle">
+```
 
-<img src="https://raw.githubusercontent.com/Padmaja-Dhulipudi/Padmaja-Dhulipudi/main/img.jpg" height="320px" style="border-radius:10px; object-fit:cover;" />
+</td>
 
-</td> </tr> </table> ```
+<td width="40%" align="center" valign="middle">
 
+<img 
+  src="https://raw.githubusercontent.com/Padmaja-Dhulipudi/Padmaja-Dhulipudi/main/img.jpg" 
+  height="320px"
+  style="border-radius:10px;"
+/>
 
+</td>
 
-
----
-
+</tr>
+</table>
 <!-- ===================== TECH STACK ===================== -->
 
 <p align="center">
