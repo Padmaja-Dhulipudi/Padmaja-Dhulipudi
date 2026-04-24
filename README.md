@@ -49,11 +49,15 @@ const padmaja = {
 
 </td>
 
-<td width="50%" align="center">
-  <img src= "C:\Users\admin\AppData\Local\Temp\MicrosoftEdgeDownloads\2c8f66c5-0d42-4112-aa85-d3f168dc469b\img.jpg" width="75%" />
+<!----<td width="50%" align="center">
+  <img src= "https://github.com/Padmaja-Dhulipudi/Padmaja-Dhulipudi/blob/main/img.jpg?raw=true" width="75%" />
 </td>
 
 </tr>
+----->
+<td width="50%" align="center">
+  <img src="https://raw.githubusercontent.com/Padmaja-Dhulipudi/Padmaja-Dhulipudi/main/img.jpg" width="85%" />
+</td>
 </table>
 
 ---
