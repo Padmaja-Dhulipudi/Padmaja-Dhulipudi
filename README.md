@@ -170,6 +170,21 @@ export default {
 
 ---
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Antonio&size=32&duration=2800&pause=1200&color=B22222&center=true&vCenter=true&width=800&lines=Contribution+Graph" />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Padmaja-Dhulipudi&bg_color=000000&color=DDDDDD&line=B22222&point=8B0000&area=true&hide_border=true" 
+    width="95%" 
+  />
+</p>
+
+
+-----
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Padmaja-Dhulipudi&label=Profile%20Views&color=red&style=for-the-badge"/>
 </div>
@@ -220,21 +235,4 @@ export default {
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Antonio&size=32&duration=2800&pause=1200&color=B22222&center=true&vCenter=true&width=800&lines=Contribution+Graph" />
-</p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Padmaja-Dhulipudi&bg_color=000000&color=DDDDDD&line=B22222&point=8B0000&area=true&hide_border=true" 
-    width="95%" 
-  />
-</p>
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Padmaja-Dhulipudi/Padmaja-Dhulipudi/output/github-snake-dark.svg" />
-
-</div>
