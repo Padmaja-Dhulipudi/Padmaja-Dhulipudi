@@ -25,18 +25,21 @@
 
 ---
 
-
 <table align="center">
 <tr>
 
-<td width="60%" valign="middle">
+<td width="55%" valign="top">
 
-```javascript
+<pre style="font-size:14px; line-height:1.6; background:#0d1117; padding:14px; border-radius:10px; color:#e6edf3;">
+
+// profile.config.js
+
 export default {
   name: "Dhulipudi Padmaja",
   role: "CSE Student | AI/ML",
 
-  education: "B.Tech, Computer Science Engineering — University College of Engineering, Kakinada (JNTUK)",
+  education: "B.Tech — Computer Science Engineering  
+              University College of Engineering, Kakinada (JNTUK)",
 
   focus: "AI systems • real-world problem solving",
 
@@ -44,16 +47,17 @@ export default {
 
   mindset: "Learn → Build → Improve → Repeat"
 };
-```
+
+</pre>
 
 </td>
 
-<td width="40%" align="center" valign="middle">
+<td width="45%" align="center" valign="middle">
 
 <img 
   src="https://raw.githubusercontent.com/Padmaja-Dhulipudi/Padmaja-Dhulipudi/main/img.jpg" 
-  height="320px"
-  style="border-radius:10px;"
+  width="95%" 
+  style="border-radius:12px; box-shadow:0 0 20px rgba(178,34,34,0.4);"
 />
 
 </td>
