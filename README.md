@@ -32,26 +32,30 @@
 <td width="50%" valign="middle">
 
 ```javascript
-const padmaja = {
-    name: "Dhulipudi Padmaja",
-    role: "CSE Student | AI/ML Enthusiast",
+// profile.config.js
 
-    education: {
-        degree: "B.Tech",
-        branch: "Computer Science Engineering",
-        university: "University College of Engineering, Kakinada (JNTUK)"
-    },
+const config = {
+  name: "Dhulipudi Padmaja",
+  role: "AI/ML Enthusiast",
 
-    interests: [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Web Development",
-        "Problem Solving"
-    ],
+  education: {
+    degree: "B.Tech",
+    specialization: "Computer Science Engineering",
+    institution: "UCE Kakinada (JNTUK)"
+  },
 
-    currentFocus: "Building real-world AI systems",
-    mindset: "Learn → Build → Improve → Repeat"
+  currentlyWorkingOn: "Real-world AI applications",
+
+  domains: [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Web Development"
+  ],
+
+  philosophy: "Consistency compounds results"
 };
+
+module.exports = config;
 ```
 
 </td>
