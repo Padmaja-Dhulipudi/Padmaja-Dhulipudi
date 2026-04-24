@@ -1,4 +1,4 @@
-<!-- ===================== AI THEMED BANNER ===================== -->
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:B22222,100:000000&height=250&section=header&text=Padmaja%20Dhulipudi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20CSE%20Student%20%7C%20Developer&descAlignY=58&descSize=20"/>
@@ -25,7 +25,6 @@
 
 ---
 
-<!-- ===================== INTRO ===================== -->
 
 <table align="center">
 <tr>
