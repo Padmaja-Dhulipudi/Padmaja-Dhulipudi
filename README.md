@@ -31,54 +31,24 @@
 
 <td width="50%" valign="middle">
 
-<!-- ===================== VS CODE INTRO ===================== -->
-
-<table align="center">
-<tr>
-
-<td width="50%" valign="top">
-
-<!-- VS Code Window -->
-<div style="border-radius:10px; overflow:hidden; border:1px solid #2d2d2d;">
-
-<!-- Top Bar -->
-<div style="background:#1e1e1e; padding:6px 10px; display:flex; align-items:center; gap:6px;">
-  <span style="height:10px; width:10px; background:#ff5f56; border-radius:50%; display:inline-block;"></span>
-  <span style="height:10px; width:10px; background:#ffbd2e; border-radius:50%; display:inline-block;"></span>
-  <span style="height:10px; width:10px; background:#27c93f; border-radius:50%; display:inline-block;"></span>
-  <span style="margin-left:10px; color:#aaa; font-size:12px;">padmaja.config.js</span>
-</div>
-
-<!-- Code Area -->
-<div style="background:#0d1117; padding:16px;">
+### 💻 About
 
 ```javascript
+// profile.config.js
+
 export default {
   name: "Dhulipudi Padmaja",
   role: "CSE Student | AI/ML",
 
-  education: {
-    degree: "B.Tech",
-    branch: "Computer Science Engineering",
-    university: "University College of Engineering, Kakinada (JNTUK)"
-  },
+  education: "B.Tech, Computer Science Engineering — University College of Engineering, Kakinada (JNTUK)",
 
-  focus: "Building real-world AI systems",
+  focus: "AI systems • real-world problem solving",
 
-  skills: [
-    "Machine Learning",
-    "Web Development",
-    "Problem Solving"
-  ],
+  stack: ["Machine Learning", "Web Development"],
 
   mindset: "Learn → Build → Improve → Repeat"
 };
 ```
-
-</div>
-</div>
-
-</td>
 
 <td width="50%" align="center" valign="middle">
 
@@ -89,7 +59,6 @@ export default {
 </tr>
 </table>
 
-</td>
 
 
 
