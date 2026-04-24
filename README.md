@@ -31,32 +31,63 @@
 
 <td width="50%" valign="middle">
 
-```javascript
-// profile.config.js
+<!-- ===================== VS CODE INTRO ===================== -->
 
-const config = {
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+<!-- VS Code Window -->
+<div style="border-radius:10px; overflow:hidden; border:1px solid #2d2d2d;">
+
+<!-- Top Bar -->
+<div style="background:#1e1e1e; padding:6px 10px; display:flex; align-items:center; gap:6px;">
+  <span style="height:10px; width:10px; background:#ff5f56; border-radius:50%; display:inline-block;"></span>
+  <span style="height:10px; width:10px; background:#ffbd2e; border-radius:50%; display:inline-block;"></span>
+  <span style="height:10px; width:10px; background:#27c93f; border-radius:50%; display:inline-block;"></span>
+  <span style="margin-left:10px; color:#aaa; font-size:12px;">padmaja.config.js</span>
+</div>
+
+<!-- Code Area -->
+<div style="background:#0d1117; padding:16px;">
+
+```javascript
+export default {
   name: "Dhulipudi Padmaja",
-  role: "AI/ML Enthusiast",
+  role: "CSE Student | AI/ML",
 
   education: {
     degree: "B.Tech",
-    specialization: "Computer Science Engineering",
-    institution: "UCE Kakinada (JNTUK)"
+    branch: "Computer Science Engineering",
+    university: "University College of Engineering, Kakinada (JNTUK)"
   },
 
-  currentlyWorkingOn: "Real-world AI applications",
+  focus: "Building real-world AI systems",
 
-  domains: [
-    "Artificial Intelligence",
+  skills: [
     "Machine Learning",
-    "Web Development"
+    "Web Development",
+    "Problem Solving"
   ],
 
-  philosophy: "Consistency compounds results"
+  mindset: "Learn → Build → Improve → Repeat"
 };
-
-module.exports = config;
 ```
+
+</div>
+</div>
+
+</td>
+
+<td width="50%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/Padmaja-Dhulipudi/Padmaja-Dhulipudi/main/img.jpg" width="90%" />
+
+</td>
+
+</tr>
+</table>
 
 </td>
 
