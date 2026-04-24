@@ -91,14 +91,7 @@ export default {
 
 </td>
 
-<td width="50%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/Padmaja-Dhulipudi/Padmaja-Dhulipudi/main/img.jpg" width="90%" />
-
-</td>
-
-</tr>
-</table>
 
 ---
 
