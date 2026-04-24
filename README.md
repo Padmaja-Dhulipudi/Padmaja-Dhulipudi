@@ -72,7 +72,7 @@ export default {
 </p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,java,html,css,js,nodejs,react,nextjs,flask,express,tailwind,mongodb,mysql,git,github,vscode,tensorflow,pytorch,scikit learn,&theme=dark">
+  <img src="https://skillicons.dev/icons?i=c,python,java,html,css,js,nodejs,react,nextjs,flask,express,tailwind,mongodb,mysql,git,github,vscode,tensorflow,pytorch,sklearn&theme=dark">
 </div>
 
 ---
